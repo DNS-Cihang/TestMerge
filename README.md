@@ -1,1 +1,3 @@
 # TestMerge
+
+Change in B
